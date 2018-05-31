@@ -23,36 +23,36 @@ The HTML will contain the following elements.
 
     1. Header
 
-      - Wen's Portfolio
+      * Wen's Portfolio
 
-      - Responsive
+      * Responsive
 
     2. Nav
 
-      - Navigation bar
+      * Navigation bar
 
-        - Responsive Topnav with Dropdown
+        * Responsive Topnav with Dropdown
 
         (source: https://www.w3schools.com/howto/howto_js_responsive_navbar_dropdown.asp)
 
-      - Search box
+      * Search box
 
       (source: https://www.w3schools.com/howto/howto_css_searchbar.asp)
 
-      - Responsive
+      * Responsive
 
     3. Main
 
-      - Contents
+      * Contents
 
-        - One picture per project
+        * One picture per project
 
-        - Link projects
+        * Link projects
 
-        - Responsive
+        * Responsive
 
-      - Side bar or other contents :thought_balloon:
+      * Side bar or other contents :thought_balloon:
 
     4. Footer
 
-      - Copyright :thought_balloon:
+      * Copyright :thought_balloon:
