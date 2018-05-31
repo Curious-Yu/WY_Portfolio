@@ -8,6 +8,7 @@
 /* Style the links inside the navigation bar */
 .topnav a {
     float: left;
+    display: block;
     color: #44160C;
     text-align: center;
     padding: 16px 16px;
@@ -19,4 +20,14 @@
 .topnav a:hover {
     background-color: #FD7E62;
     color: #44160C;
+}
+
+/* Style the search box inside the navigation bar */
+.topnav input[type=text] {
+    float: right;
+    padding: 8px;
+    border: none;
+    margin-top: 10px;
+    margin-right: 16px;
+    font-size: 20px;
 }
