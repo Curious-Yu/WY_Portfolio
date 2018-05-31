@@ -19,7 +19,7 @@ The HTML will contain the following elements.
 
   4. Linking HTML to responsive.css
 
-    * Adding `<meta name="viewport" content="width=device-width,initial-scale=1">`
+      * Adding `<meta name="viewport" content="width=device-width,initial-scale=1">`
 
 ### Body :sparkles:
 
