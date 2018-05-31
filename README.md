@@ -25,36 +25,36 @@ The HTML will contain the following elements.
 
   1. Header
 
-    * Wen's Portfolio
-
-    * Responsive
-
-  2. Nav
-
-    * Navigation bar
-
-      * Topnav
-
-        (source: https://www.w3schools.com/howto/howto_js_topnav.asp)
-
-    * Search box
-
-      (source: https://www.w3schools.com/howto/howto_css_searchbar.asp)
-
-    * Responsive
-
-  3. Main
-
-    * Contents
-
-      * One picture per project
-
-      * Link projects
+      * Wen's Portfolio
 
       * Responsive
 
-    * Side bar or other contents
+  2. Nav
+
+      * Navigation bar
+
+        * Topnav
+
+          (source: https://www.w3schools.com/howto/howto_js_topnav.asp)
+
+      * Search box
+
+        (source: https://www.w3schools.com/howto/howto_css_searchbar.asp)
+
+      * Responsive
+
+  3. Main
+
+      * Contents
+
+        * One picture per project
+
+        * Link projects
+
+        * Responsive
+
+      * Side bar or other contents
 
   4. Footer
 
-    * Copyright
+      * Copyright
