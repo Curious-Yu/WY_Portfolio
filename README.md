@@ -51,8 +51,8 @@ The HTML will contain the following elements.
 
         * Responsive
 
-      * Side bar or other contents :thought_balloon:
+      * Side bar or other contents 
 
     4. Footer
 
-      * Copyright :thought_balloon:
+      * Copyright
