@@ -33,11 +33,11 @@ The HTML will contain the following elements.
 
       * Responsive Topnav with Dropdown
 
-      (source: https://www.w3schools.com/howto/howto_js_responsive_navbar_dropdown.asp)
+        (source: https://www.w3schools.com/howto/howto_js_responsive_navbar_dropdown.asp)
 
     * Search box
 
-    (source: https://www.w3schools.com/howto/howto_css_searchbar.asp)
+      (source: https://www.w3schools.com/howto/howto_css_searchbar.asp)
 
     * Responsive
 
