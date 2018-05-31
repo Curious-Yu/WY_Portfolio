@@ -1,10 +1,10 @@
-#WY_Portfolio
+# WY_Portfolio
 
-##Description :star:
+## Description :star:
 
 This is a showcase of Wen's coding projects.
 
-##Structure :star:
+## Structure :star:
 
 The HTML will contain the following elements.
 
@@ -51,7 +51,7 @@ The HTML will contain the following elements.
 
         * Responsive
 
-      * Side bar or other contents 
+      * Side bar or other contents
 
     4. Footer
 
