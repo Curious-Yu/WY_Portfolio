@@ -52,7 +52,3 @@ The HTML will contain the following elements. (source: https://developer.mozilla
         * Link projects
 
         * Responsive
-
-  4. Footer
-
-      * Copyright
