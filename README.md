@@ -6,7 +6,7 @@ This is a showcase of Wen's coding projects.
 
 ## Structure :star:
 
-The HTML will contain the following elements.
+The HTML will contain the following elements. (source: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 
 ### Head :sparkles:
 
@@ -45,15 +45,13 @@ The HTML will contain the following elements.
 
   3. Main
 
-      * Contents
+      * Contents (source: https://www.w3schools.com/howto/howto_css_portfolio_gallery.asp)
 
         * One picture per project
 
         * Link projects
 
         * Responsive
-
-      * Side bar or other contents
 
   4. Footer
 
