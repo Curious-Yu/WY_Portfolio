@@ -37,11 +37,7 @@ The HTML will contain the following elements. (source: https://developer.mozilla
 
           (source: https://www.w3schools.com/howto/howto_js_topnav.asp)
 
-      * Search box
-
-        (source: https://www.w3schools.com/howto/howto_css_searchbar.asp)
-
-      * Responsive
+        * Responsive
 
   3. Main
 
