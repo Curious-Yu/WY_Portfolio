@@ -1,0 +1,90 @@
+
+/*header and logo */
+#header h1 {
+  text-align:center;
+}
+
+#header img {
+  display: block;
+  margin: auto;
+}
+
+/*navigation bar*/
+#navigation a {
+  display: inline-block;
+  padding: 20px;
+}
+
+#navigation {
+  text-align: center;
+  border-style: ridge;
+  border-color: #FFE2DC;
+  margin: 10px;
+  color: #341109;
+  font-weight: bold;
+  font-size: 26px;
+}
+
+
+/* for the body part */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FFE2DC;
+    padding: 10px;
+}
+
+/* Center website */
+.main {
+    max-width: 1000px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 60px;
+    word-break: break-all;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 38px;
+}
+
+p {
+    font-size: 26px;
+}
+
+.row {
+    margin: 8px -16px;
+}
+
+/* Add padding BETWEEN each column (if you want) */
+.row,
+.row > .column {
+    padding: 8px;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 25%;
+}
+
+/* Clear floats after rows */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Content */
+.content {
+    background-color: #FFE2DC;
+    padding: 10px;
+}
