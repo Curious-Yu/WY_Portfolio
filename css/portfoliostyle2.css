@@ -61,26 +61,16 @@ p {
 }
 
 .row {
-    margin: 8px -16px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
 }
 
-/* Add padding BETWEEN each column (if you want) */
-.row,
-.row > .column {
-    padding: 8px;
-}
-
-/* Create four equal columns that floats next to each other */
+/* Create four equal columns that sits next to each other */
 .column {
-    float: left;
-    width: 25%;
-}
-
-/* Clear floats after rows */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
 }
 
 /* Content */
