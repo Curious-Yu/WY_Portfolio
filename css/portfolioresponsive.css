@@ -1,5 +1,5 @@
 /* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 900px) {
   .column {
       flex: 50%;
       max-width: 50%;
@@ -7,7 +7,7 @@
 }
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 600px) {
   .column {
       flex: 100%;
       max-width: 100%;
@@ -36,7 +36,8 @@
 
 @media screen and (max-width:450px) {
   #navigation a {
-    display: block;
+    display: flex;
+    flex-wrap: wrap;
   }
   #navigation {
     text-align: center;
@@ -45,6 +46,6 @@
     margin: auto;
     color: #341109;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 20px;
   }
 }
